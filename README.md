@@ -9,7 +9,7 @@ Excited to share my latest project where I utilized YOLOv8 to detect objects in 
 
 Check out the videos hosted on Google Drive:
 
-1. [New York City Video 1]([insert_google_drive_url_here](https://drive.google.com/drive/folders/1eX4OI9jQdEcQhcHhiKsVfMnKG7FOGIu5?usp=drive_link])
+1. ([New York City Video 1](https://drive.google.com/drive/folders/1eX4OI9jQdEcQhcHhiKsVfMnKG7FOGIu5?usp=drive_link])
 
 
 ## Object Detection
